@@ -6,5 +6,7 @@ public class Day2NewProject {
 		System.out.println("New Project of the Year...");
 		
 	}
-
+    public void addNew() {
+    	System.out.println("Adding new stush of the Year..");
+    }
 }
