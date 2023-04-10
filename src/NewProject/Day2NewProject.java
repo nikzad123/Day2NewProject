@@ -9,4 +9,8 @@ public class Day2NewProject {
     public void addNew() {
     	System.out.println("Adding new stush of the Year..");
     }
+    
+    public void addMe() {
+    	System.out.println("Adding new Pushing ...");
+    }
 }
